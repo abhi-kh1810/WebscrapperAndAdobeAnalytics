@@ -1,0 +1,3 @@
+# Requirements for Modern Pfizer Webbuilder Dashboard Scraper
+playwright>=1.40.0
+flask>=3.0.0

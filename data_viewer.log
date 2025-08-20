@@ -1,0 +1,1138 @@
+2025-08-19 16:30:49,050 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 16:30:49,051 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:30:49,053 - INFO -  * Restarting with stat
+2025-08-19 16:30:49,272 - WARNING -  * Debugger is active!
+2025-08-19 16:30:49,285 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 16:30:56,678 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:56] "GET / HTTP/1.1" 200 -
+2025-08-19 16:30:56,720 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:56] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:30:56,722 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:56] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:31:31,241 - INFO - Read 5 subscription IDs
+2025-08-19 16:31:31,241 - INFO - 127.0.0.1 - - [19/Aug/2025 16:31:31] "GET /api/scraping/subscriptions HTTP/1.1" 200 -
+2025-08-19 16:32:58,900 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:32:58,911 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:40:32,105 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 16:40:32,105 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:40:32,107 - INFO -  * Restarting with stat
+2025-08-19 16:40:32,324 - WARNING -  * Debugger is active!
+2025-08-19 16:40:32,337 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 16:40:35,563 - INFO - 127.0.0.1 - - [19/Aug/2025 16:40:35] "GET / HTTP/1.1" 200 -
+2025-08-19 16:40:35,574 - INFO - 127.0.0.1 - - [19/Aug/2025 16:40:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:40:35,576 - INFO - 127.0.0.1 - - [19/Aug/2025 16:40:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:40:38,986 - INFO - 127.0.0.1 - - [19/Aug/2025 16:40:38] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 16:40:38,987 - INFO - Read 5 subscription IDs
+2025-08-19 16:41:15,401 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 16:41:20,870 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 16:41:24,487 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 16:41:24,988 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 16:41:25,002 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 16:41:28,068 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 16:41:28,569 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 16:41:28,576 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 16:41:31,949 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 16:41:32,451 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 16:41:32,463 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 16:41:35,373 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 16:41:35,875 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 16:41:35,887 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 16:41:38,889 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 16:41:53,490 - INFO - 127.0.0.1 - - [19/Aug/2025 16:41:53] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 16:41:56,500 - INFO - 127.0.0.1 - - [19/Aug/2025 16:41:56] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:41:56,506 - INFO - 127.0.0.1 - - [19/Aug/2025 16:41:56] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:42:14,780 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:14] "GET / HTTP/1.1" 200 -
+2025-08-19 16:42:14,795 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:14] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:42:14,802 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:14] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:42:16,147 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET / HTTP/1.1" 200 -
+2025-08-19 16:42:16,161 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:42:16,166 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:42:16,600 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET / HTTP/1.1" 200 -
+2025-08-19 16:42:16,614 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:42:16,619 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:42:41,936 - INFO - Read 5 subscription IDs
+2025-08-19 16:42:41,937 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:41] "GET /api/scraping/subscriptions HTTP/1.1" 200 -
+2025-08-19 16:42:46,620 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:42:46,624 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:42:47,727 - INFO - 127.0.0.1 - - [19/Aug/2025 16:42:47] "GET /api/export/csv HTTP/1.1" 200 -
+2025-08-19 16:43:16,623 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:43:16,628 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:43:46,635 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:43:46,640 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:44:15,179 - INFO - Read 5 subscription IDs
+2025-08-19 16:44:15,181 - INFO - 127.0.0.1 - - [19/Aug/2025 16:44:15] "GET /api/scraping/subscriptions HTTP/1.1" 200 -
+2025-08-19 16:44:16,622 - INFO - 127.0.0.1 - - [19/Aug/2025 16:44:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:44:16,627 - INFO - 127.0.0.1 - - [19/Aug/2025 16:44:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:44:46,625 - INFO - 127.0.0.1 - - [19/Aug/2025 16:44:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:44:46,631 - INFO - 127.0.0.1 - - [19/Aug/2025 16:44:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:45:16,625 - INFO - 127.0.0.1 - - [19/Aug/2025 16:45:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:45:16,629 - INFO - 127.0.0.1 - - [19/Aug/2025 16:45:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:45:46,631 - INFO - 127.0.0.1 - - [19/Aug/2025 16:45:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:45:46,635 - INFO - 127.0.0.1 - - [19/Aug/2025 16:45:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:46:16,632 - INFO - 127.0.0.1 - - [19/Aug/2025 16:46:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:46:16,637 - INFO - 127.0.0.1 - - [19/Aug/2025 16:46:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:46:46,773 - INFO - 127.0.0.1 - - [19/Aug/2025 16:46:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:46:46,801 - INFO - 127.0.0.1 - - [19/Aug/2025 16:46:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:47:22,236 - INFO - 127.0.0.1 - - [19/Aug/2025 16:47:22] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:47:22,240 - INFO - 127.0.0.1 - - [19/Aug/2025 16:47:22] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:47:57,663 - INFO - 127.0.0.1 - - [19/Aug/2025 16:47:57] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:47:57,667 - INFO - 127.0.0.1 - - [19/Aug/2025 16:47:57] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:48:29,420 - INFO - 127.0.0.1 - - [19/Aug/2025 16:48:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:48:29,426 - INFO - 127.0.0.1 - - [19/Aug/2025 16:48:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:49:35,017 - INFO - 127.0.0.1 - - [19/Aug/2025 16:49:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:49:35,043 - INFO - 127.0.0.1 - - [19/Aug/2025 16:49:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:50:28,425 - INFO - 127.0.0.1 - - [19/Aug/2025 16:50:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:50:28,430 - INFO - 127.0.0.1 - - [19/Aug/2025 16:50:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:51:48,262 - INFO - 127.0.0.1 - - [19/Aug/2025 16:51:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:51:48,266 - INFO - 127.0.0.1 - - [19/Aug/2025 16:51:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:53:08,361 - INFO - 127.0.0.1 - - [19/Aug/2025 16:53:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:53:08,365 - INFO - 127.0.0.1 - - [19/Aug/2025 16:53:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:54:28,315 - INFO - 127.0.0.1 - - [19/Aug/2025 16:54:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:54:28,321 - INFO - 127.0.0.1 - - [19/Aug/2025 16:54:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:55:48,417 - INFO - 127.0.0.1 - - [19/Aug/2025 16:55:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:55:48,423 - INFO - 127.0.0.1 - - [19/Aug/2025 16:55:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:57:08,409 - INFO - 127.0.0.1 - - [19/Aug/2025 16:57:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:57:08,414 - INFO - 127.0.0.1 - - [19/Aug/2025 16:57:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:58:28,358 - INFO - 127.0.0.1 - - [19/Aug/2025 16:58:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:58:28,363 - INFO - 127.0.0.1 - - [19/Aug/2025 16:58:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 16:59:48,405 - INFO - 127.0.0.1 - - [19/Aug/2025 16:59:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 16:59:48,411 - INFO - 127.0.0.1 - - [19/Aug/2025 16:59:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:01:08,259 - INFO - 127.0.0.1 - - [19/Aug/2025 17:01:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:01:08,264 - INFO - 127.0.0.1 - - [19/Aug/2025 17:01:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:27:35,754 - INFO - 127.0.0.1 - - [19/Aug/2025 17:27:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:27:35,795 - INFO - 127.0.0.1 - - [19/Aug/2025 17:27:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:28:05,662 - INFO - 127.0.0.1 - - [19/Aug/2025 17:28:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:28:05,667 - INFO - 127.0.0.1 - - [19/Aug/2025 17:28:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:28:35,659 - INFO - 127.0.0.1 - - [19/Aug/2025 17:28:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:28:35,665 - INFO - 127.0.0.1 - - [19/Aug/2025 17:28:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:29:05,661 - INFO - 127.0.0.1 - - [19/Aug/2025 17:29:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:29:05,665 - INFO - 127.0.0.1 - - [19/Aug/2025 17:29:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:29:35,650 - INFO - 127.0.0.1 - - [19/Aug/2025 17:29:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:29:35,654 - INFO - 127.0.0.1 - - [19/Aug/2025 17:29:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:30:05,638 - INFO - 127.0.0.1 - - [19/Aug/2025 17:30:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:30:05,642 - INFO - 127.0.0.1 - - [19/Aug/2025 17:30:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:30:35,644 - INFO - 127.0.0.1 - - [19/Aug/2025 17:30:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:30:35,648 - INFO - 127.0.0.1 - - [19/Aug/2025 17:30:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:31:05,637 - INFO - 127.0.0.1 - - [19/Aug/2025 17:31:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:31:05,646 - INFO - 127.0.0.1 - - [19/Aug/2025 17:31:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:31:35,641 - INFO - 127.0.0.1 - - [19/Aug/2025 17:31:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:31:35,646 - INFO - 127.0.0.1 - - [19/Aug/2025 17:31:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:05,635 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:05,639 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:23,829 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:23] "GET / HTTP/1.1" 200 -
+2025-08-19 17:32:23,880 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:23] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:23,884 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:23] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:24,562 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:24] "GET / HTTP/1.1" 200 -
+2025-08-19 17:32:24,569 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:24] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:24,572 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:24] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:25,024 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET / HTTP/1.1" 200 -
+2025-08-19 17:32:25,034 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:25,036 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:25,413 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET / HTTP/1.1" 200 -
+2025-08-19 17:32:25,423 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:25,426 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:25,767 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET / HTTP/1.1" 200 -
+2025-08-19 17:32:25,780 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:25,783 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:32:55,785 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:32:55,788 - INFO - 127.0.0.1 - - [19/Aug/2025 17:32:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:33:25,784 - INFO - 127.0.0.1 - - [19/Aug/2025 17:33:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:33:25,788 - INFO - 127.0.0.1 - - [19/Aug/2025 17:33:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:33:55,784 - INFO - 127.0.0.1 - - [19/Aug/2025 17:33:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:33:55,786 - INFO - 127.0.0.1 - - [19/Aug/2025 17:33:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:34:25,789 - INFO - 127.0.0.1 - - [19/Aug/2025 17:34:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:34:25,794 - INFO - 127.0.0.1 - - [19/Aug/2025 17:34:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:34:32,347 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:34:32,400 - INFO -  * Restarting with stat
+2025-08-19 17:34:32,700 - WARNING -  * Debugger is active!
+2025-08-19 17:34:32,716 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:37:35,693 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 17:37:35,693 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 17:37:35,695 - INFO -  * Restarting with stat
+2025-08-19 17:37:35,925 - WARNING -  * Debugger is active!
+2025-08-19 17:37:35,937 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:37:43,136 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:43] "GET / HTTP/1.1" 200 -
+2025-08-19 17:37:43,241 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:37:43,241 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:37:43,278 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-19 17:37:46,115 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:46] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 17:37:46,117 - INFO - Read 5 subscription IDs
+2025-08-19 17:37:55,889 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:37:55,890 - INFO - 127.0.0.1 - - [19/Aug/2025 17:37:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:38:22,600 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 17:38:25,801 - INFO - 127.0.0.1 - - [19/Aug/2025 17:38:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:38:25,805 - INFO - 127.0.0.1 - - [19/Aug/2025 17:38:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:38:28,471 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:38:32,140 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 17:38:32,642 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 17:38:32,655 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:38:35,722 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 17:38:36,224 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 17:38:36,236 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:38:39,601 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 17:38:40,103 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 17:38:40,112 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:38:43,019 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 17:38:43,521 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 17:38:43,532 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:38:46,516 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 17:38:55,802 - INFO - 127.0.0.1 - - [19/Aug/2025 17:38:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:38:55,806 - INFO - 127.0.0.1 - - [19/Aug/2025 17:38:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:02,618 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:02] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:39:02,621 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:02] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:02,628 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:02] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:05,641 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:05,648 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:13,216 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:13] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:13,223 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:13] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:25,798 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:25,802 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:43,222 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:43,226 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:39:55,802 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:39:55,805 - INFO - 127.0.0.1 - - [19/Aug/2025 17:39:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:40:13,222 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:13] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:40:13,226 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:13] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:40:25,801 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:40:25,805 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:40:43,222 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:40:43,225 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:40:55,800 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:40:55,803 - INFO - 127.0.0.1 - - [19/Aug/2025 17:40:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:41:13,218 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:13] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:41:13,222 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:13] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:41:25,800 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:41:25,806 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:41:43,219 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:41:43,222 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:41:55,801 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:41:55,806 - INFO - 127.0.0.1 - - [19/Aug/2025 17:41:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:42:13,221 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:13] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:42:13,229 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:13] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:42:25,844 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:42:25,886 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:42:43,220 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:42:43,226 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:42:55,803 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:42:55,806 - INFO - 127.0.0.1 - - [19/Aug/2025 17:42:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:43:13,223 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:13] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:43:13,228 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:13] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:43:25,802 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:43:25,805 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:43:39,964 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:43:40,007 - INFO -  * Restarting with stat
+2025-08-19 17:43:40,304 - WARNING -  * Debugger is active!
+2025-08-19 17:43:40,319 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:43:43,219 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:43] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:43:43,223 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:43] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:43:55,810 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:43:55,813 - INFO - 127.0.0.1 - - [19/Aug/2025 17:43:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:44:08,301 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:08] "GET / HTTP/1.1" 200 -
+2025-08-19 17:44:08,377 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:44:08,382 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:44:14,287 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:14] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:44:19,464 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:44:19,498 - INFO -  * Restarting with stat
+2025-08-19 17:44:19,777 - WARNING -  * Debugger is active!
+2025-08-19 17:44:19,796 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:44:25,807 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:44:25,813 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:44:36,357 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:36] "GET /api/export/json HTTP/1.1" 200 -
+2025-08-19 17:44:38,350 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:44:38,356 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:44:46,261 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:44:46,304 - INFO -  * Restarting with stat
+2025-08-19 17:44:46,557 - WARNING -  * Debugger is active!
+2025-08-19 17:44:46,574 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:44:55,883 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:44:55,883 - INFO - 127.0.0.1 - - [19/Aug/2025 17:44:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:08,424 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:45:08,425 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:25,874 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:25,875 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:45:38,382 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:45:38,383 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:43,597 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:45:43,654 - INFO -  * Restarting with stat
+2025-08-19 17:45:43,982 - WARNING -  * Debugger is active!
+2025-08-19 17:45:44,000 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:45:45,254 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:45] "GET / HTTP/1.1" 200 -
+2025-08-19 17:45:45,347 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:45] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:45,358 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:45] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:45:55,803 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:45:55,804 - INFO - 127.0.0.1 - - [19/Aug/2025 17:45:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:45:57,798 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:45:57,836 - INFO -  * Restarting with stat
+2025-08-19 17:45:58,078 - WARNING -  * Debugger is active!
+2025-08-19 17:45:58,103 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:46:15,340 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:15] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:46:15,341 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:15] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:46:25,802 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:46:25,803 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:46:51,908 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 17:46:51,908 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 17:46:51,909 - INFO -  * Restarting with stat
+2025-08-19 17:46:52,137 - WARNING -  * Debugger is active!
+2025-08-19 17:46:52,149 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:46:54,180 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:54] "GET / HTTP/1.1" 200 -
+2025-08-19 17:46:54,282 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:54] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:46:54,283 - INFO - 127.0.0.1 - - [19/Aug/2025 17:46:54] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:47:00,112 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:00] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 17:47:00,113 - INFO - Read 5 subscription IDs
+2025-08-19 17:47:36,671 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 17:47:42,258 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:47:45,880 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 17:47:46,382 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 17:47:46,391 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:47:47,713 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:47] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:48,702 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:48] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:49,457 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 17:47:49,704 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:49] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:49,959 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 17:47:49,973 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:47:50,705 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:50] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:51,704 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:51] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:52,705 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:52] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:53,363 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 17:47:53,705 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:53] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:53,864 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 17:47:53,877 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:47:54,710 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:54] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:55,707 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:55] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:56,708 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:56] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:56,803 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 17:47:57,305 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 17:47:57,317 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:47:57,717 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:57] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:58,711 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:58] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:47:59,711 - INFO - 127.0.0.1 - - [19/Aug/2025 17:47:59] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:00,317 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 17:48:00,714 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:00] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:01,714 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:01] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:02,715 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:02] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:03,716 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:03] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:04,717 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:04] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:05,717 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:05] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:06,719 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:06] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:48:09,730 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:09] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:48:09,735 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:09] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:48:10,757 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:48:10,758 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:48:40,763 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:48:40,764 - INFO - 127.0.0.1 - - [19/Aug/2025 17:48:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:49:06,146 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:06] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 17:49:06,147 - INFO - Read 5 subscription IDs
+2025-08-19 17:49:43,110 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 17:49:49,246 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:49:52,905 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 17:49:53,407 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 17:49:53,420 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:49:56,384 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:56] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:49:56,626 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 17:49:57,127 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 17:49:57,141 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:49:57,360 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:57] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:49:58,360 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:58] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:49:59,365 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:59] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:49:59,965 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:49:59,966 - INFO - 127.0.0.1 - - [19/Aug/2025 17:49:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:50:00,362 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:00] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:00,549 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 17:50:01,051 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 17:50:01,063 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:50:01,363 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:01] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:02,363 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:02] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:03,365 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:03] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:03,978 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 17:50:04,369 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:04] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:04,478 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 17:50:04,483 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 17:50:05,364 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:05] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:06,367 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:06] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:07,368 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:07] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:07,461 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 17:50:08,370 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:08] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:09,371 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:09] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:10,369 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:10] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:11,374 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:11] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:12,372 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:12] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:13,371 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:13] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 17:50:16,387 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:50:16,389 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:50:29,969 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:50:29,970 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:50:41,011 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:41] "GET /api/export/csv HTTP/1.1" 200 -
+2025-08-19 17:50:59,972 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:50:59,973 - INFO - 127.0.0.1 - - [19/Aug/2025 17:50:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:51:29,976 - INFO - 127.0.0.1 - - [19/Aug/2025 17:51:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:51:29,977 - INFO - 127.0.0.1 - - [19/Aug/2025 17:51:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:51:59,976 - INFO - 127.0.0.1 - - [19/Aug/2025 17:51:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:51:59,977 - INFO - 127.0.0.1 - - [19/Aug/2025 17:51:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:52:29,973 - INFO - 127.0.0.1 - - [19/Aug/2025 17:52:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:52:29,974 - INFO - 127.0.0.1 - - [19/Aug/2025 17:52:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:52:59,973 - INFO - 127.0.0.1 - - [19/Aug/2025 17:52:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:52:59,974 - INFO - 127.0.0.1 - - [19/Aug/2025 17:52:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:53:29,974 - INFO - 127.0.0.1 - - [19/Aug/2025 17:53:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:53:29,975 - INFO - 127.0.0.1 - - [19/Aug/2025 17:53:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:53:59,980 - INFO - 127.0.0.1 - - [19/Aug/2025 17:53:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:53:59,983 - INFO - 127.0.0.1 - - [19/Aug/2025 17:53:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:54:29,980 - INFO - 127.0.0.1 - - [19/Aug/2025 17:54:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:54:29,981 - INFO - 127.0.0.1 - - [19/Aug/2025 17:54:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:54:59,978 - INFO - 127.0.0.1 - - [19/Aug/2025 17:54:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:54:59,979 - INFO - 127.0.0.1 - - [19/Aug/2025 17:54:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:55:29,981 - INFO - 127.0.0.1 - - [19/Aug/2025 17:55:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:55:29,983 - INFO - 127.0.0.1 - - [19/Aug/2025 17:55:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:55:38,290 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:55:38,338 - INFO -  * Restarting with stat
+2025-08-19 17:55:38,701 - WARNING -  * Debugger is active!
+2025-08-19 17:55:38,719 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:55:50,367 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:55:50,404 - INFO -  * Restarting with stat
+2025-08-19 17:55:50,665 - WARNING -  * Debugger is active!
+2025-08-19 17:55:50,679 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:55:59,981 - INFO - 127.0.0.1 - - [19/Aug/2025 17:55:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:55:59,983 - INFO - 127.0.0.1 - - [19/Aug/2025 17:55:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:56:02,438 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:56:02,471 - INFO -  * Restarting with stat
+2025-08-19 17:56:02,718 - WARNING -  * Debugger is active!
+2025-08-19 17:56:02,737 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:56:12,335 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:56:12,368 - INFO -  * Restarting with stat
+2025-08-19 17:56:12,628 - WARNING -  * Debugger is active!
+2025-08-19 17:56:12,641 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:56:29,993 - INFO - 127.0.0.1 - - [19/Aug/2025 17:56:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:56:29,995 - INFO - 127.0.0.1 - - [19/Aug/2025 17:56:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:56:42,476 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:56:42,513 - INFO -  * Restarting with stat
+2025-08-19 17:56:42,788 - WARNING -  * Debugger is active!
+2025-08-19 17:56:42,807 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:56:56,594 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:56:56,642 - INFO -  * Restarting with stat
+2025-08-19 17:56:56,938 - WARNING -  * Debugger is active!
+2025-08-19 17:56:56,958 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:56:59,984 - INFO - 127.0.0.1 - - [19/Aug/2025 17:56:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:56:59,985 - INFO - 127.0.0.1 - - [19/Aug/2025 17:56:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:57:29,994 - INFO - 127.0.0.1 - - [19/Aug/2025 17:57:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:57:29,995 - INFO - 127.0.0.1 - - [19/Aug/2025 17:57:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:57:30,885 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:57:30,939 - INFO -  * Restarting with stat
+2025-08-19 17:57:31,225 - WARNING -  * Debugger is active!
+2025-08-19 17:57:31,238 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:57:57,716 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:57:57,769 - INFO -  * Restarting with stat
+2025-08-19 17:57:58,034 - WARNING -  * Debugger is active!
+2025-08-19 17:57:58,042 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:57:59,985 - INFO - 127.0.0.1 - - [19/Aug/2025 17:57:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:57:59,986 - INFO - 127.0.0.1 - - [19/Aug/2025 17:57:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:58:16,101 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:58:16,133 - INFO -  * Restarting with stat
+2025-08-19 17:58:16,388 - WARNING -  * Debugger is active!
+2025-08-19 17:58:16,405 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:58:25,952 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:58:25,998 - INFO -  * Restarting with stat
+2025-08-19 17:58:26,303 - WARNING -  * Debugger is active!
+2025-08-19 17:58:26,319 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:58:29,980 - INFO - 127.0.0.1 - - [19/Aug/2025 17:58:29] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:58:29,982 - INFO - 127.0.0.1 - - [19/Aug/2025 17:58:29] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:58:50,636 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 17:58:50,698 - INFO -  * Restarting with stat
+2025-08-19 17:59:23,739 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 17:59:23,740 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 17:59:23,741 - INFO -  * Restarting with stat
+2025-08-19 17:59:23,976 - WARNING -  * Debugger is active!
+2025-08-19 17:59:23,995 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 17:59:30,011 - INFO - 127.0.0.1 - - [19/Aug/2025 17:59:30] "GET / HTTP/1.1" 200 -
+2025-08-19 17:59:30,059 - INFO - 127.0.0.1 - - [19/Aug/2025 17:59:30] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 17:59:30,068 - INFO - 127.0.0.1 - - [19/Aug/2025 17:59:30] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 17:59:39,761 - INFO - 127.0.0.1 - - [19/Aug/2025 17:59:39] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 17:59:39,762 - INFO - Read 5 subscription IDs
+2025-08-19 18:00:16,941 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 18:00:22,873 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:00:26,529 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 18:00:27,030 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 18:00:27,041 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:00:30,110 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 18:00:30,612 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 18:00:30,627 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:00:33,999 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 18:00:34,501 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 18:00:34,513 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:00:37,441 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 18:00:37,943 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 18:00:37,957 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:00:40,923 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 18:00:50,520 - INFO - 127.0.0.1 - - [19/Aug/2025 18:00:50] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 18:00:53,536 - INFO - 127.0.0.1 - - [19/Aug/2025 18:00:53] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:00:53,539 - INFO - 127.0.0.1 - - [19/Aug/2025 18:00:53] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:01:01,034 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:01] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:01:09,904 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:09] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:01:09,904 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:09] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:01:40,005 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:01:40,007 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:01:46,111 - INFO - 127.0.0.1 - - [19/Aug/2025 18:01:46] "GET /api/export/json HTTP/1.1" 200 -
+2025-08-19 18:02:10,003 - INFO - 127.0.0.1 - - [19/Aug/2025 18:02:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:02:10,006 - INFO - 127.0.0.1 - - [19/Aug/2025 18:02:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:02:40,002 - INFO - 127.0.0.1 - - [19/Aug/2025 18:02:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:02:40,003 - INFO - 127.0.0.1 - - [19/Aug/2025 18:02:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:03:10,004 - INFO - 127.0.0.1 - - [19/Aug/2025 18:03:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:03:10,005 - INFO - 127.0.0.1 - - [19/Aug/2025 18:03:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:03:40,002 - INFO - 127.0.0.1 - - [19/Aug/2025 18:03:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:03:40,003 - INFO - 127.0.0.1 - - [19/Aug/2025 18:03:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:04:10,006 - INFO - 127.0.0.1 - - [19/Aug/2025 18:04:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:04:10,008 - INFO - 127.0.0.1 - - [19/Aug/2025 18:04:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:04:40,010 - INFO - 127.0.0.1 - - [19/Aug/2025 18:04:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:04:40,011 - INFO - 127.0.0.1 - - [19/Aug/2025 18:04:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:05:10,004 - INFO - 127.0.0.1 - - [19/Aug/2025 18:05:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:05:10,006 - INFO - 127.0.0.1 - - [19/Aug/2025 18:05:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:05:40,011 - INFO - 127.0.0.1 - - [19/Aug/2025 18:05:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:05:40,013 - INFO - 127.0.0.1 - - [19/Aug/2025 18:05:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:06:10,006 - INFO - 127.0.0.1 - - [19/Aug/2025 18:06:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:06:10,007 - INFO - 127.0.0.1 - - [19/Aug/2025 18:06:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:06:40,010 - INFO - 127.0.0.1 - - [19/Aug/2025 18:06:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:06:40,012 - INFO - 127.0.0.1 - - [19/Aug/2025 18:06:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:07:10,009 - INFO - 127.0.0.1 - - [19/Aug/2025 18:07:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:07:10,011 - INFO - 127.0.0.1 - - [19/Aug/2025 18:07:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:07:40,006 - INFO - 127.0.0.1 - - [19/Aug/2025 18:07:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:07:40,007 - INFO - 127.0.0.1 - - [19/Aug/2025 18:07:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:08:10,008 - INFO - 127.0.0.1 - - [19/Aug/2025 18:08:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:08:10,009 - INFO - 127.0.0.1 - - [19/Aug/2025 18:08:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:08:40,011 - INFO - 127.0.0.1 - - [19/Aug/2025 18:08:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:08:40,012 - INFO - 127.0.0.1 - - [19/Aug/2025 18:08:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:09:10,014 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:09:10,015 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:09:40,012 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:40] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:09:40,013 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:40] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:09:55,393 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:55] "GET / HTTP/1.1" 200 -
+2025-08-19 18:09:55,417 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:09:55,420 - INFO - 127.0.0.1 - - [19/Aug/2025 18:09:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:10:16,909 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:16] "GET / HTTP/1.1" 200 -
+2025-08-19 18:10:16,924 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:10:16,926 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:10:16,937 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-19 18:10:42,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 18:10:42,011 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 18:10:42,012 - INFO -  * Restarting with stat
+2025-08-19 18:10:42,276 - WARNING -  * Debugger is active!
+2025-08-19 18:10:42,289 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:10:46,948 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:10:46,949 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:10:55,118 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:55] "GET / HTTP/1.1" 200 -
+2025-08-19 18:10:55,143 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:10:55,145 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:10:55,233 - INFO - 127.0.0.1 - - [19/Aug/2025 18:10:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-19 18:11:16,932 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:11:16,933 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:11:25,150 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:11:25,155 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:11:46,933 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:11:46,934 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:11:55,149 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:55] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:11:55,186 - INFO - 127.0.0.1 - - [19/Aug/2025 18:11:55] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:15,869 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 18:12:15,905 - INFO -  * Restarting with stat
+2025-08-19 18:12:16,158 - WARNING -  * Debugger is active!
+2025-08-19 18:12:16,173 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:12:16,928 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:16,929 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:25,147 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:25,148 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:34,328 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:34] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:34,341 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:34] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:34,344 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:34] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:42,778 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 18:12:42,826 - INFO -  * Restarting with stat
+2025-08-19 18:12:43,063 - WARNING -  * Debugger is active!
+2025-08-19 18:12:43,080 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:12:46,938 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:46,944 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:46,984 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:46] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:46,994 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:46,997 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:47,489 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:47,496 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:47,498 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:47,638 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:47,648 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:47,650 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:47,796 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:47,803 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:47,805 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:47,943 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:47,952 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:47,953 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:48,241 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:48,247 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:48,252 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:48,386 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:48,393 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:48,395 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:48,556 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:48,562 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:48,564 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:48] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:12:49,759 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:49] "GET / HTTP/1.1" 200 -
+2025-08-19 18:12:49,770 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:12:49,772 - INFO - 127.0.0.1 - - [19/Aug/2025 18:12:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:16,929 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:16,931 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:19,780 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:19,783 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:20,353 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:20,365 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:20,368 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:20,816 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:20,828 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:20,830 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:20,983 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:20,992 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:20,996 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:21,119 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:21,128 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:21,130 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:21,254 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:21,266 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:21,269 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:21,401 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:21,410 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:21,413 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:21] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:46,934 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:46,935 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:51,414 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:51] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:51,415 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:51] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:53,011 - INFO -  * Detected change in '/Users/abhi/Desktop/Webbuilder/main/webbuilder_scraper.py', reloading
+2025-08-19 18:13:53,063 - INFO -  * Restarting with stat
+2025-08-19 18:13:53,331 - WARNING -  * Debugger is active!
+2025-08-19 18:13:53,346 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:13:58,869 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:58] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:58,881 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:58,892 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:59,398 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:59,410 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:59,416 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:59,539 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:59,546 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:59,550 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:59,670 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:59,679 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:59,682 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:13:59,942 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET / HTTP/1.1" 200 -
+2025-08-19 18:13:59,954 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:13:59,958 - INFO - 127.0.0.1 - - [19/Aug/2025 18:13:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:00,119 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET / HTTP/1.1" 200 -
+2025-08-19 18:14:00,160 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:00,163 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:00,268 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET / HTTP/1.1" 200 -
+2025-08-19 18:14:00,277 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:00,280 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:00,404 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET / HTTP/1.1" 200 -
+2025-08-19 18:14:00,412 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:00,415 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:00,614 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET / HTTP/1.1" 200 -
+2025-08-19 18:14:00,621 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:00,625 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:00] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:22,820 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 18:14:22,821 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 18:14:22,822 - INFO -  * Restarting with stat
+2025-08-19 18:14:23,051 - WARNING -  * Debugger is active!
+2025-08-19 18:14:23,068 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:14:35,408 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:35] "GET / HTTP/1.1" 200 -
+2025-08-19 18:14:35,486 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:35,491 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:14:46,931 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:14:46,934 - INFO - 127.0.0.1 - - [19/Aug/2025 18:14:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:15:05,490 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:15:05,495 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:15:16,935 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:15:16,940 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:15:35,501 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:35] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:15:35,505 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:35] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:15:46,962 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:46] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:15:46,970 - INFO - 127.0.0.1 - - [19/Aug/2025 18:15:46] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:05,519 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:05] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:05,524 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:05] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:16,970 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:16] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:16,972 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:16] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:46,825 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 18:16:46,826 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 18:16:46,827 - INFO -  * Restarting with stat
+2025-08-19 18:16:47,062 - WARNING -  * Debugger is active!
+2025-08-19 18:16:47,087 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:16:47,143 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:47,145 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:49,481 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:49] "GET / HTTP/1.1" 200 -
+2025-08-19 18:16:49,552 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:49,560 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:52,971 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:52] "GET / HTTP/1.1" 200 -
+2025-08-19 18:16:52,986 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:52] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:52,990 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:52] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:16:53,425 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:53] "GET / HTTP/1.1" 200 -
+2025-08-19 18:16:53,440 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:53] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:16:53,444 - INFO - 127.0.0.1 - - [19/Aug/2025 18:16:53] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:03,031 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:03,068 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:03,073 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:03,734 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:03,761 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:03,767 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:03,993 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:03] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,010 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,012 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:04,156 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,167 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,170 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:04,314 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,326 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,329 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:04,466 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,479 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,481 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:04,604 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,620 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,623 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:04,748 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET / HTTP/1.1" 200 -
+2025-08-19 18:17:04,759 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:04,762 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:04] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:17:34,758 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:34] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:17:34,759 - INFO - 127.0.0.1 - - [19/Aug/2025 18:17:34] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:18:40,162 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:18:40,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 18:18:40,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 18:18:40,651 - INFO -  * Restarting with stat
+2025-08-19 18:18:40,853 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:18:40,872 - WARNING -  * Debugger is active!
+2025-08-19 18:18:40,883 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:18:44,147 - INFO - 127.0.0.1 - - [19/Aug/2025 18:18:44] "GET / HTTP/1.1" 200 -
+2025-08-19 18:18:44,189 - INFO - 127.0.0.1 - - [19/Aug/2025 18:18:44] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:18:44,192 - INFO - 127.0.0.1 - - [19/Aug/2025 18:18:44] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:19:01,419 - INFO - 127.0.0.1 - - [19/Aug/2025 18:19:01] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 18:19:01,421 - INFO - Read 5 subscription IDs
+2025-08-19 18:19:01,424 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:19:01,426 - INFO - Created new scraping session 1 after clearing all data
+2025-08-19 18:19:41,485 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 18:19:49,117 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:19:52,770 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 18:19:53,271 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 18:19:53,277 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:19:56,294 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 18:19:56,796 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 18:19:56,804 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:20:00,188 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 18:20:00,689 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 18:20:00,701 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:20:03,578 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 18:20:04,079 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 18:20:04,090 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:20:07,065 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 18:20:24,862 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:24] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 18:20:27,873 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:27] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:20:27,874 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:27] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:20:36,615 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:36] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:20:36,616 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:36] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:20:52,453 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:52] "GET / HTTP/1.1" 200 -
+2025-08-19 18:20:52,467 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:52] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:20:52,468 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:52] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:20:56,366 - INFO - 127.0.0.1 - - [19/Aug/2025 18:20:56] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-19 18:20:56,368 - INFO - Read 5 subscription IDs
+2025-08-19 18:20:56,374 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:20:56,377 - INFO - Created new scraping session 1 after clearing all data
+2025-08-19 18:21:36,165 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-19 18:21:41,632 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:21:45,274 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-19 18:21:45,775 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-19 18:21:45,787 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:21:48,857 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-19 18:21:49,359 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-19 18:21:49,373 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:21:52,744 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-19 18:21:53,246 - INFO - Scraping subscription: www.duavee.com
+2025-08-19 18:21:53,258 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:21:56,177 - INFO - Saved 2 results for www.duavee.com
+2025-08-19 18:21:56,679 - INFO - Scraping subscription: www.sos-klop.si
+2025-08-19 18:21:56,692 - INFO - Found search input with selector: input[type="text"]
+2025-08-19 18:21:59,693 - INFO - Saved 4 results for www.sos-klop.si
+2025-08-19 18:22:08,622 - INFO - 127.0.0.1 - - [19/Aug/2025 18:22:08] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-19 18:22:11,635 - INFO - 127.0.0.1 - - [19/Aug/2025 18:22:11] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:22:11,635 - INFO - 127.0.0.1 - - [19/Aug/2025 18:22:11] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:22:33,695 - INFO - 127.0.0.1 - - [19/Aug/2025 18:22:33] "GET /api/data HTTP/1.1" 200 -
+2025-08-19 18:22:33,696 - INFO - 127.0.0.1 - - [19/Aug/2025 18:22:33] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:23:03,263 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:23:03,570 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-19 18:23:03,570 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 18:23:03,572 - INFO -  * Restarting with stat
+2025-08-19 18:23:03,778 - INFO - Cleared all existing data for fresh scraping session
+2025-08-19 18:23:03,800 - WARNING -  * Debugger is active!
+2025-08-19 18:23:03,812 - INFO -  * Debugger PIN: 388-021-706
+2025-08-19 18:23:07,393 - INFO - 127.0.0.1 - - [19/Aug/2025 18:23:07] "GET / HTTP/1.1" 200 -
+2025-08-19 18:23:07,413 - INFO - 127.0.0.1 - - [19/Aug/2025 18:23:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-19 18:23:07,413 - INFO - 127.0.0.1 - - [19/Aug/2025 18:23:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:50:52,188 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 10:50:52,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-20 10:50:52,945 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-20 10:50:52,946 - INFO -  * Restarting with stat
+2025-08-20 10:50:53,129 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 10:50:53,148 - WARNING -  * Debugger is active!
+2025-08-20 10:50:53,249 - INFO -  * Debugger PIN: 625-231-052
+2025-08-20 10:50:57,217 - INFO - 127.0.0.1 - - [20/Aug/2025 10:50:57] "GET / HTTP/1.1" 200 -
+2025-08-20 10:50:57,242 - INFO - 127.0.0.1 - - [20/Aug/2025 10:50:57] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:50:57,243 - INFO - 127.0.0.1 - - [20/Aug/2025 10:50:57] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:51:09,130 - INFO - 127.0.0.1 - - [20/Aug/2025 10:51:09] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-20 10:51:09,131 - INFO - Read 1 subscription IDs
+2025-08-20 10:51:09,134 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 10:51:09,136 - INFO - Created new scraping session 1 after clearing all data
+2025-08-20 10:51:45,000 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-20 10:51:50,831 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 10:51:53,935 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-20 10:52:07,301 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:07] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-20 10:52:10,313 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:10] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:52:10,314 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:10] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:52:24,396 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:24] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:52:24,396 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:24] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:52:54,394 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:54] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:52:54,395 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:54] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:52:55,864 - INFO - 127.0.0.1 - - [20/Aug/2025 10:52:55] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-20 10:52:55,864 - INFO - Read 3 subscription IDs
+2025-08-20 10:52:55,867 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 10:52:55,869 - INFO - Created new scraping session 1 after clearing all data
+2025-08-20 10:53:31,252 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-20 10:53:37,277 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 10:53:40,384 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-20 10:53:40,885 - INFO - Scraping subscription: www.covid19.pl
+2025-08-20 10:53:40,894 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 10:53:43,804 - INFO - Saved 1 results for www.covid19.pl
+2025-08-20 10:53:44,305 - INFO - Scraping subscription: www.vyndalink.com
+2025-08-20 10:53:44,318 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 10:53:47,386 - INFO - Saved 1 results for www.vyndalink.com
+2025-08-20 10:53:57,623 - INFO - 127.0.0.1 - - [20/Aug/2025 10:53:57] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-20 10:54:00,634 - INFO - 127.0.0.1 - - [20/Aug/2025 10:54:00] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 10:54:00,635 - INFO - 127.0.0.1 - - [20/Aug/2025 10:54:00] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:54:25,146 - INFO - 127.0.0.1 - - [20/Aug/2025 10:54:25] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 10:54:25,147 - INFO - 127.0.0.1 - - [20/Aug/2025 10:54:25] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:20:40,923 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 12:20:41,140 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.187.8.84:8080
+2025-08-20 12:20:41,140 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-20 12:20:41,141 - INFO -  * Restarting with stat
+2025-08-20 12:20:41,340 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 12:20:41,358 - WARNING -  * Debugger is active!
+2025-08-20 12:20:41,375 - INFO -  * Debugger PIN: 625-231-052
+2025-08-20 12:20:47,261 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:47] "GET / HTTP/1.1" 200 -
+2025-08-20 12:20:47,336 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:47] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:20:47,340 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:47] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:20:52,597 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:52] "POST /api/scraping/start-manual HTTP/1.1" 200 -
+2025-08-20 12:20:52,599 - INFO - Read 3 subscription IDs
+2025-08-20 12:20:52,602 - INFO - Cleared all existing data for fresh scraping session
+2025-08-20 12:20:52,605 - INFO - Created new scraping session 1 after clearing all data
+2025-08-20 12:21:28,450 - INFO - Scraping subscription: www.breastcancervision.com
+2025-08-20 12:21:34,763 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 12:21:38,350 - INFO - Saved 2 results for www.breastcancervision.com
+2025-08-20 12:21:38,851 - INFO - Scraping subscription: www.amyloidose.be
+2025-08-20 12:21:38,855 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 12:21:41,877 - INFO - Saved 1 results for www.amyloidose.be
+2025-08-20 12:21:42,378 - INFO - Scraping subscription: www.thrive-thailand.com
+2025-08-20 12:21:42,388 - INFO - Found search input with selector: input[type="text"]
+2025-08-20 12:21:45,804 - INFO - Saved 1 results for www.thrive-thailand.com
+2025-08-20 12:21:56,161 - INFO - 127.0.0.1 - - [20/Aug/2025 12:21:56] "GET /api/scraping/status HTTP/1.1" 200 -
+2025-08-20 12:21:59,174 - INFO - 127.0.0.1 - - [20/Aug/2025 12:21:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:21:59,178 - INFO - 127.0.0.1 - - [20/Aug/2025 12:21:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:22:04,549 - INFO - Read 3 subscription IDs
+2025-08-20 12:22:04,550 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:04] "GET /api/scraping/subscriptions HTTP/1.1" 200 -
+2025-08-20 12:22:09,721 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:09] "GET /api/export/csv HTTP/1.1" 200 -
+2025-08-20 12:22:19,894 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:22:19,894 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:22:49,931 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:22:49,933 - INFO - 127.0.0.1 - - [20/Aug/2025 12:22:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:23:19,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:23:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:23:19,894 - INFO - 127.0.0.1 - - [20/Aug/2025 12:23:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:23:49,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:23:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:23:49,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:23:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:24:19,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:24:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:24:19,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:24:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:24:49,895 - INFO - 127.0.0.1 - - [20/Aug/2025 12:24:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:24:49,896 - INFO - 127.0.0.1 - - [20/Aug/2025 12:24:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:25:19,891 - INFO - 127.0.0.1 - - [20/Aug/2025 12:25:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:25:19,892 - INFO - 127.0.0.1 - - [20/Aug/2025 12:25:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:25:49,893 - INFO - 127.0.0.1 - - [20/Aug/2025 12:25:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:25:49,894 - INFO - 127.0.0.1 - - [20/Aug/2025 12:25:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:26:19,890 - INFO - 127.0.0.1 - - [20/Aug/2025 12:26:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:26:19,891 - INFO - 127.0.0.1 - - [20/Aug/2025 12:26:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:26:49,894 - INFO - 127.0.0.1 - - [20/Aug/2025 12:26:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:26:49,896 - INFO - 127.0.0.1 - - [20/Aug/2025 12:26:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:27:19,889 - INFO - 127.0.0.1 - - [20/Aug/2025 12:27:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:27:19,890 - INFO - 127.0.0.1 - - [20/Aug/2025 12:27:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:27:49,898 - INFO - 127.0.0.1 - - [20/Aug/2025 12:27:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:27:49,898 - INFO - 127.0.0.1 - - [20/Aug/2025 12:27:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:28:19,931 - INFO - 127.0.0.1 - - [20/Aug/2025 12:28:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:28:19,933 - INFO - 127.0.0.1 - - [20/Aug/2025 12:28:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:28:49,898 - INFO - 127.0.0.1 - - [20/Aug/2025 12:28:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:28:49,900 - INFO - 127.0.0.1 - - [20/Aug/2025 12:28:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:29:19,919 - INFO - 127.0.0.1 - - [20/Aug/2025 12:29:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:29:19,921 - INFO - 127.0.0.1 - - [20/Aug/2025 12:29:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:29:49,902 - INFO - 127.0.0.1 - - [20/Aug/2025 12:29:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:29:49,904 - INFO - 127.0.0.1 - - [20/Aug/2025 12:29:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:30:19,896 - INFO - 127.0.0.1 - - [20/Aug/2025 12:30:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:30:19,896 - INFO - 127.0.0.1 - - [20/Aug/2025 12:30:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:30:49,898 - INFO - 127.0.0.1 - - [20/Aug/2025 12:30:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:30:49,899 - INFO - 127.0.0.1 - - [20/Aug/2025 12:30:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:31:19,898 - INFO - 127.0.0.1 - - [20/Aug/2025 12:31:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:31:19,899 - INFO - 127.0.0.1 - - [20/Aug/2025 12:31:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:31:49,919 - INFO - 127.0.0.1 - - [20/Aug/2025 12:31:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:31:49,920 - INFO - 127.0.0.1 - - [20/Aug/2025 12:31:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:32:19,900 - INFO - 127.0.0.1 - - [20/Aug/2025 12:32:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:32:19,900 - INFO - 127.0.0.1 - - [20/Aug/2025 12:32:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:32:49,915 - INFO - 127.0.0.1 - - [20/Aug/2025 12:32:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:32:49,921 - INFO - 127.0.0.1 - - [20/Aug/2025 12:32:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:33:19,946 - INFO - 127.0.0.1 - - [20/Aug/2025 12:33:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:33:19,947 - INFO - 127.0.0.1 - - [20/Aug/2025 12:33:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:33:49,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:33:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:33:49,904 - INFO - 127.0.0.1 - - [20/Aug/2025 12:33:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:34:19,900 - INFO - 127.0.0.1 - - [20/Aug/2025 12:34:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:34:19,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:34:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:34:49,919 - INFO - 127.0.0.1 - - [20/Aug/2025 12:34:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:34:49,920 - INFO - 127.0.0.1 - - [20/Aug/2025 12:34:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:35:19,900 - INFO - 127.0.0.1 - - [20/Aug/2025 12:35:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:35:19,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:35:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:35:49,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:35:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:35:49,902 - INFO - 127.0.0.1 - - [20/Aug/2025 12:35:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:36:19,902 - INFO - 127.0.0.1 - - [20/Aug/2025 12:36:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:36:19,903 - INFO - 127.0.0.1 - - [20/Aug/2025 12:36:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:36:49,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:36:49] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:36:49,901 - INFO - 127.0.0.1 - - [20/Aug/2025 12:36:49] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:37:19,997 - INFO - 127.0.0.1 - - [20/Aug/2025 12:37:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:37:19,998 - INFO - 127.0.0.1 - - [20/Aug/2025 12:37:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:37:50,415 - INFO - 127.0.0.1 - - [20/Aug/2025 12:37:50] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:37:50,415 - INFO - 127.0.0.1 - - [20/Aug/2025 12:37:50] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:38:37,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:38:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:38:37,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:38:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:39:07,966 - INFO - 127.0.0.1 - - [20/Aug/2025 12:39:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:39:07,967 - INFO - 127.0.0.1 - - [20/Aug/2025 12:39:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:39:37,959 - INFO - 127.0.0.1 - - [20/Aug/2025 12:39:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:39:37,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:39:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:40:07,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:40:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:40:07,961 - INFO - 127.0.0.1 - - [20/Aug/2025 12:40:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:40:37,961 - INFO - 127.0.0.1 - - [20/Aug/2025 12:40:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:40:37,961 - INFO - 127.0.0.1 - - [20/Aug/2025 12:40:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:41:07,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:41:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:41:07,960 - INFO - 127.0.0.1 - - [20/Aug/2025 12:41:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:41:37,963 - INFO - 127.0.0.1 - - [20/Aug/2025 12:41:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:41:37,964 - INFO - 127.0.0.1 - - [20/Aug/2025 12:41:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:42:07,967 - INFO - 127.0.0.1 - - [20/Aug/2025 12:42:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:42:07,968 - INFO - 127.0.0.1 - - [20/Aug/2025 12:42:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:42:37,966 - INFO - 127.0.0.1 - - [20/Aug/2025 12:42:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:42:37,967 - INFO - 127.0.0.1 - - [20/Aug/2025 12:42:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:43:08,001 - INFO - 127.0.0.1 - - [20/Aug/2025 12:43:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:43:08,002 - INFO - 127.0.0.1 - - [20/Aug/2025 12:43:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:43:37,964 - INFO - 127.0.0.1 - - [20/Aug/2025 12:43:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:43:37,965 - INFO - 127.0.0.1 - - [20/Aug/2025 12:43:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:44:07,978 - INFO - 127.0.0.1 - - [20/Aug/2025 12:44:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:44:07,980 - INFO - 127.0.0.1 - - [20/Aug/2025 12:44:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:44:37,965 - INFO - 127.0.0.1 - - [20/Aug/2025 12:44:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:44:37,966 - INFO - 127.0.0.1 - - [20/Aug/2025 12:44:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:45:07,968 - INFO - 127.0.0.1 - - [20/Aug/2025 12:45:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:45:07,969 - INFO - 127.0.0.1 - - [20/Aug/2025 12:45:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:45:37,970 - INFO - 127.0.0.1 - - [20/Aug/2025 12:45:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:45:37,971 - INFO - 127.0.0.1 - - [20/Aug/2025 12:45:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:46:07,970 - INFO - 127.0.0.1 - - [20/Aug/2025 12:46:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:46:07,971 - INFO - 127.0.0.1 - - [20/Aug/2025 12:46:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:46:37,966 - INFO - 127.0.0.1 - - [20/Aug/2025 12:46:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:46:37,966 - INFO - 127.0.0.1 - - [20/Aug/2025 12:46:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:47:07,969 - INFO - 127.0.0.1 - - [20/Aug/2025 12:47:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:47:07,970 - INFO - 127.0.0.1 - - [20/Aug/2025 12:47:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:47:37,970 - INFO - 127.0.0.1 - - [20/Aug/2025 12:47:37] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:47:37,971 - INFO - 127.0.0.1 - - [20/Aug/2025 12:47:37] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:48:07,988 - INFO - 127.0.0.1 - - [20/Aug/2025 12:48:07] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:48:07,989 - INFO - 127.0.0.1 - - [20/Aug/2025 12:48:07] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:48:38,012 - INFO - 127.0.0.1 - - [20/Aug/2025 12:48:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:48:38,014 - INFO - 127.0.0.1 - - [20/Aug/2025 12:48:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:49:08,007 - INFO - 127.0.0.1 - - [20/Aug/2025 12:49:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:49:08,008 - INFO - 127.0.0.1 - - [20/Aug/2025 12:49:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:49:38,008 - INFO - 127.0.0.1 - - [20/Aug/2025 12:49:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:49:38,009 - INFO - 127.0.0.1 - - [20/Aug/2025 12:49:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:50:08,008 - INFO - 127.0.0.1 - - [20/Aug/2025 12:50:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:50:08,009 - INFO - 127.0.0.1 - - [20/Aug/2025 12:50:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:50:38,015 - INFO - 127.0.0.1 - - [20/Aug/2025 12:50:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:50:38,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:50:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:51:08,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:51:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:51:08,017 - INFO - 127.0.0.1 - - [20/Aug/2025 12:51:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:51:38,013 - INFO - 127.0.0.1 - - [20/Aug/2025 12:51:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:51:38,014 - INFO - 127.0.0.1 - - [20/Aug/2025 12:51:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:52:08,017 - INFO - 127.0.0.1 - - [20/Aug/2025 12:52:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:52:08,022 - INFO - 127.0.0.1 - - [20/Aug/2025 12:52:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:52:38,010 - INFO - 127.0.0.1 - - [20/Aug/2025 12:52:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:52:38,010 - INFO - 127.0.0.1 - - [20/Aug/2025 12:52:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:53:08,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:53:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:53:08,017 - INFO - 127.0.0.1 - - [20/Aug/2025 12:53:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:53:38,018 - INFO - 127.0.0.1 - - [20/Aug/2025 12:53:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:53:38,019 - INFO - 127.0.0.1 - - [20/Aug/2025 12:53:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:54:08,021 - INFO - 127.0.0.1 - - [20/Aug/2025 12:54:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:54:08,022 - INFO - 127.0.0.1 - - [20/Aug/2025 12:54:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:54:38,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:54:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:54:38,017 - INFO - 127.0.0.1 - - [20/Aug/2025 12:54:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:55:08,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:55:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:55:08,016 - INFO - 127.0.0.1 - - [20/Aug/2025 12:55:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:55:38,026 - INFO - 127.0.0.1 - - [20/Aug/2025 12:55:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:55:38,027 - INFO - 127.0.0.1 - - [20/Aug/2025 12:55:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:56:08,019 - INFO - 127.0.0.1 - - [20/Aug/2025 12:56:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:56:08,020 - INFO - 127.0.0.1 - - [20/Aug/2025 12:56:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:56:38,021 - INFO - 127.0.0.1 - - [20/Aug/2025 12:56:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:56:38,021 - INFO - 127.0.0.1 - - [20/Aug/2025 12:56:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:57:08,017 - INFO - 127.0.0.1 - - [20/Aug/2025 12:57:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:57:08,018 - INFO - 127.0.0.1 - - [20/Aug/2025 12:57:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:57:38,024 - INFO - 127.0.0.1 - - [20/Aug/2025 12:57:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:57:38,024 - INFO - 127.0.0.1 - - [20/Aug/2025 12:57:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:58:08,027 - INFO - 127.0.0.1 - - [20/Aug/2025 12:58:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:58:08,028 - INFO - 127.0.0.1 - - [20/Aug/2025 12:58:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:58:38,116 - INFO - 127.0.0.1 - - [20/Aug/2025 12:58:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:58:38,116 - INFO - 127.0.0.1 - - [20/Aug/2025 12:58:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:59:08,117 - INFO - 127.0.0.1 - - [20/Aug/2025 12:59:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:59:08,118 - INFO - 127.0.0.1 - - [20/Aug/2025 12:59:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 12:59:38,125 - INFO - 127.0.0.1 - - [20/Aug/2025 12:59:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 12:59:38,126 - INFO - 127.0.0.1 - - [20/Aug/2025 12:59:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:00:08,115 - INFO - 127.0.0.1 - - [20/Aug/2025 13:00:08] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:00:08,115 - INFO - 127.0.0.1 - - [20/Aug/2025 13:00:08] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:00:38,215 - INFO - 127.0.0.1 - - [20/Aug/2025 13:00:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:00:38,216 - INFO - 127.0.0.1 - - [20/Aug/2025 13:00:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:01:09,873 - INFO - 127.0.0.1 - - [20/Aug/2025 13:01:09] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:01:09,873 - INFO - 127.0.0.1 - - [20/Aug/2025 13:01:09] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:01:58,146 - INFO - 127.0.0.1 - - [20/Aug/2025 13:01:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:01:58,147 - INFO - 127.0.0.1 - - [20/Aug/2025 13:01:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:02:38,076 - INFO - 127.0.0.1 - - [20/Aug/2025 13:02:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:02:38,077 - INFO - 127.0.0.1 - - [20/Aug/2025 13:02:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:03:18,233 - INFO - 127.0.0.1 - - [20/Aug/2025 13:03:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:03:18,234 - INFO - 127.0.0.1 - - [20/Aug/2025 13:03:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:03:58,241 - INFO - 127.0.0.1 - - [20/Aug/2025 13:03:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:03:58,251 - INFO - 127.0.0.1 - - [20/Aug/2025 13:03:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:04:38,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:04:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:04:38,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:04:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:05:18,228 - INFO - 127.0.0.1 - - [20/Aug/2025 13:05:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:05:18,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:05:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:05:58,193 - INFO - 127.0.0.1 - - [20/Aug/2025 13:05:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:05:58,193 - INFO - 127.0.0.1 - - [20/Aug/2025 13:05:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:06:38,232 - INFO - 127.0.0.1 - - [20/Aug/2025 13:06:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:06:38,232 - INFO - 127.0.0.1 - - [20/Aug/2025 13:06:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:07:18,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:07:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:07:18,240 - INFO - 127.0.0.1 - - [20/Aug/2025 13:07:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:07:58,129 - INFO - 127.0.0.1 - - [20/Aug/2025 13:07:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:07:58,130 - INFO - 127.0.0.1 - - [20/Aug/2025 13:07:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:08:38,190 - INFO - 127.0.0.1 - - [20/Aug/2025 13:08:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:08:38,191 - INFO - 127.0.0.1 - - [20/Aug/2025 13:08:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:09:18,231 - INFO - 127.0.0.1 - - [20/Aug/2025 13:09:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:09:18,232 - INFO - 127.0.0.1 - - [20/Aug/2025 13:09:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:09:58,228 - INFO - 127.0.0.1 - - [20/Aug/2025 13:09:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:09:58,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:09:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:10:38,131 - INFO - 127.0.0.1 - - [20/Aug/2025 13:10:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:10:38,131 - INFO - 127.0.0.1 - - [20/Aug/2025 13:10:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:11:18,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:11:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:11:18,231 - INFO - 127.0.0.1 - - [20/Aug/2025 13:11:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:11:58,129 - INFO - 127.0.0.1 - - [20/Aug/2025 13:11:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:11:58,130 - INFO - 127.0.0.1 - - [20/Aug/2025 13:11:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:12:38,227 - INFO - 127.0.0.1 - - [20/Aug/2025 13:12:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:12:38,228 - INFO - 127.0.0.1 - - [20/Aug/2025 13:12:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:13:18,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:13:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:13:18,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:13:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:13:58,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:13:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:13:58,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:13:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:14:38,229 - INFO - 127.0.0.1 - - [20/Aug/2025 13:14:38] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:14:38,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:14:38] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 13:15:18,230 - INFO - 127.0.0.1 - - [20/Aug/2025 13:15:18] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 13:15:18,231 - INFO - 127.0.0.1 - - [20/Aug/2025 13:15:18] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:04:50,064 - INFO - 127.0.0.1 - - [20/Aug/2025 14:04:50] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:04:50,065 - INFO - 127.0.0.1 - - [20/Aug/2025 14:04:50] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:05:20,070 - INFO - 127.0.0.1 - - [20/Aug/2025 14:05:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:05:20,072 - INFO - 127.0.0.1 - - [20/Aug/2025 14:05:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:05:50,048 - INFO - 127.0.0.1 - - [20/Aug/2025 14:05:50] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:05:50,050 - INFO - 127.0.0.1 - - [20/Aug/2025 14:05:50] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:06:20,049 - INFO - 127.0.0.1 - - [20/Aug/2025 14:06:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:06:20,049 - INFO - 127.0.0.1 - - [20/Aug/2025 14:06:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:06:50,051 - INFO - 127.0.0.1 - - [20/Aug/2025 14:06:50] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:06:50,052 - INFO - 127.0.0.1 - - [20/Aug/2025 14:06:50] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:07:20,055 - INFO - 127.0.0.1 - - [20/Aug/2025 14:07:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:07:20,059 - INFO - 127.0.0.1 - - [20/Aug/2025 14:07:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:07:50,051 - INFO - 127.0.0.1 - - [20/Aug/2025 14:07:50] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:07:50,053 - INFO - 127.0.0.1 - - [20/Aug/2025 14:07:50] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:08:20,165 - INFO - 127.0.0.1 - - [20/Aug/2025 14:08:20] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:08:20,168 - INFO - 127.0.0.1 - - [20/Aug/2025 14:08:20] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:08:58,144 - INFO - 127.0.0.1 - - [20/Aug/2025 14:08:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:08:58,145 - INFO - 127.0.0.1 - - [20/Aug/2025 14:08:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:09:28,142 - INFO - 127.0.0.1 - - [20/Aug/2025 14:09:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:09:28,143 - INFO - 127.0.0.1 - - [20/Aug/2025 14:09:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:09:58,142 - INFO - 127.0.0.1 - - [20/Aug/2025 14:09:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:09:58,143 - INFO - 127.0.0.1 - - [20/Aug/2025 14:09:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:10:28,141 - INFO - 127.0.0.1 - - [20/Aug/2025 14:10:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:10:28,141 - INFO - 127.0.0.1 - - [20/Aug/2025 14:10:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:10:58,142 - INFO - 127.0.0.1 - - [20/Aug/2025 14:10:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:10:58,143 - INFO - 127.0.0.1 - - [20/Aug/2025 14:10:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:11:28,142 - INFO - 127.0.0.1 - - [20/Aug/2025 14:11:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:11:28,143 - INFO - 127.0.0.1 - - [20/Aug/2025 14:11:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:11:58,142 - INFO - 127.0.0.1 - - [20/Aug/2025 14:11:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:11:58,143 - INFO - 127.0.0.1 - - [20/Aug/2025 14:11:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:12:28,148 - INFO - 127.0.0.1 - - [20/Aug/2025 14:12:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:12:28,150 - INFO - 127.0.0.1 - - [20/Aug/2025 14:12:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:12:58,148 - INFO - 127.0.0.1 - - [20/Aug/2025 14:12:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:12:58,152 - INFO - 127.0.0.1 - - [20/Aug/2025 14:12:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:13:28,149 - INFO - 127.0.0.1 - - [20/Aug/2025 14:13:28] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:13:28,151 - INFO - 127.0.0.1 - - [20/Aug/2025 14:13:28] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:13:58,244 - INFO - 127.0.0.1 - - [20/Aug/2025 14:13:58] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:13:58,244 - INFO - 127.0.0.1 - - [20/Aug/2025 14:13:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:14:31,721 - INFO - 127.0.0.1 - - [20/Aug/2025 14:14:31] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:14:31,722 - INFO - 127.0.0.1 - - [20/Aug/2025 14:14:31] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:15:19,927 - INFO - 127.0.0.1 - - [20/Aug/2025 14:15:19] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:15:19,928 - INFO - 127.0.0.1 - - [20/Aug/2025 14:15:19] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:15:59,483 - INFO - 127.0.0.1 - - [20/Aug/2025 14:15:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:15:59,483 - INFO - 127.0.0.1 - - [20/Aug/2025 14:15:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:16:59,462 - INFO - 127.0.0.1 - - [20/Aug/2025 14:16:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:16:59,463 - INFO - 127.0.0.1 - - [20/Aug/2025 14:16:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:17:59,504 - INFO - 127.0.0.1 - - [20/Aug/2025 14:17:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:17:59,505 - INFO - 127.0.0.1 - - [20/Aug/2025 14:17:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:18:59,494 - INFO - 127.0.0.1 - - [20/Aug/2025 14:18:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:18:59,494 - INFO - 127.0.0.1 - - [20/Aug/2025 14:18:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:19:59,437 - INFO - 127.0.0.1 - - [20/Aug/2025 14:19:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:19:59,437 - INFO - 127.0.0.1 - - [20/Aug/2025 14:19:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:20:59,473 - INFO - 127.0.0.1 - - [20/Aug/2025 14:20:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:20:59,474 - INFO - 127.0.0.1 - - [20/Aug/2025 14:20:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:21:59,460 - INFO - 127.0.0.1 - - [20/Aug/2025 14:21:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:21:59,461 - INFO - 127.0.0.1 - - [20/Aug/2025 14:21:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:22:59,514 - INFO - 127.0.0.1 - - [20/Aug/2025 14:22:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:22:59,514 - INFO - 127.0.0.1 - - [20/Aug/2025 14:22:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:23:59,534 - INFO - 127.0.0.1 - - [20/Aug/2025 14:23:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:23:59,536 - INFO - 127.0.0.1 - - [20/Aug/2025 14:23:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:24:59,563 - INFO - 127.0.0.1 - - [20/Aug/2025 14:24:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:24:59,564 - INFO - 127.0.0.1 - - [20/Aug/2025 14:24:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:25:59,547 - INFO - 127.0.0.1 - - [20/Aug/2025 14:25:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:25:59,548 - INFO - 127.0.0.1 - - [20/Aug/2025 14:25:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:26:59,569 - INFO - 127.0.0.1 - - [20/Aug/2025 14:26:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:26:59,570 - INFO - 127.0.0.1 - - [20/Aug/2025 14:26:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:27:59,515 - INFO - 127.0.0.1 - - [20/Aug/2025 14:27:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:27:59,516 - INFO - 127.0.0.1 - - [20/Aug/2025 14:27:59] "GET /api/stats HTTP/1.1" 200 -
+2025-08-20 14:28:59,541 - INFO - 127.0.0.1 - - [20/Aug/2025 14:28:59] "GET /api/data HTTP/1.1" 200 -
+2025-08-20 14:28:59,542 - INFO - 127.0.0.1 - - [20/Aug/2025 14:28:59] "GET /api/stats HTTP/1.1" 200 -
