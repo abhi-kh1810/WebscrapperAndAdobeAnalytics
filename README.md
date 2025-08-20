@@ -86,6 +86,10 @@ venv\Scripts\Activate.ps1
    ```
    http://localhost:8080
    ```
+3. **For fetching Abobe Analytics Data**:
+   ```bash
+   python adobe_analytics_tester.py
+   ```
 
 The web interface provides:
 - Dashboard with scraping statistics
@@ -126,18 +130,6 @@ subdomain.example3.com
 ```
 
 ## Configuration
-
-### Login Credentials
-
-The scraper can handle various login forms automatically. Modify the login selectors in `webbuilder_scraper.py` if needed:
-
-```python
-LOGIN_SELECTORS = {
-    "username_input": 'input[name="username"], input[type="email"]...',
-    "password_input": 'input[name="password"], input[type="password"]...',
-    "login_button": 'button[type="submit"], input[type="submit"]...'
-}
-```
 
 ### Target URL
 
