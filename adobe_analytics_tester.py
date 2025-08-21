@@ -23,7 +23,7 @@ ADOBE_ANALYTICS_PATTERNS = [
     'everesttech.net'       # Adobe Advertising Cloud
 ]
 ANALYTICS_PATTERNS = ['analytics', 'tracking', 'metrics', 'omniture', 'sitecatalyst']
-REQUIRED_EVENTS = ['event51', 'event7']
+REQUIRED_PARAMETERS = ['v2', 'c23']  # Changed from events to URL parameters
 ENVIRONMENT_KEYWORDS = {
     'production': ['prod', 'production'],
     'development': ['dev', 'development'], 
@@ -458,22 +458,22 @@ class AdobeAnalyticsSubscriptionTester:
         page_name = adobe_analytics.get('pageName', '')
         server = adobe_analytics.get('server', '')
 
-        # Check for required events
-        has_required_events = all(event in events for event in REQUIRED_EVENTS)
+        # Check for required parameters (v2 and c23)
+        has_required_params = all(adobe_analytics.get(param) for param in REQUIRED_PARAMETERS)
         
         # Check URL matching
         url_matches = any(param in url for param in [v2, c23, server] if param)
 
-        if has_required_events and url_matches:
+        if has_required_params and url_matches:
             env_status = self.check_environment_status(v61, url)
             self._update_result_with_env_status(result, env_status, events, v61, page_name, url)
-        elif not has_required_events:
+        elif not has_required_params:
             result.update(self._create_fail_result(
-                'Required Adobe Analytics events missing',
-                f'Events found: {events}. Expected: {", ".join(REQUIRED_EVENTS)}',
-                'Verify that required analytics events are configured.'
+                'Required Adobe Analytics parameters missing',
+                f'Parameters found: v2={v2}, c23={c23}. Expected: {", ".join(REQUIRED_PARAMETERS)}',
+                'Verify that required analytics URL parameters (v2 and c23) are configured.'
             ))
-            self.log(f"FAIL - Missing required events for {url}: {events}", "RESULT")
+            self.log(f"FAIL - Missing required parameters for {url}: v2={v2}, c23={c23}", "RESULT")
         else:
             result.update(self._create_fail_result(
                 'Adobe Analytics URL configuration issue',
@@ -489,7 +489,7 @@ class AdobeAnalyticsSubscriptionTester:
             result.update({
                 'status': 'PASS',
                 'description': 'Adobe Analytics working correctly',
-                'details': f'Events: {events}, Environment: {v61}, Page: {page_name}',
+                'details': f'URL Parameters verified (v2, c23), Environment: {v61}, Page: {page_name}',
                 'environment': env_status['environment'],
                 'recommendation': 'Analytics implementation is working correctly.'
             })
@@ -497,8 +497,8 @@ class AdobeAnalyticsSubscriptionTester:
         else:
             result.update({
                 'status': 'WARN',
-                'description': 'Adobe Analytics working but environment issue',
-                'details': f'Environment issue: {env_status["issue"]}. v61: {v61}',
+                'description': 'Adobe Analytics URL parameters found but environment issue',
+                'details': f'URL parameters (v2, c23) verified, but environment issue: {env_status["issue"]}. v61: {v61}',
                 'environment': env_status['environment'],
                 'recommendation': 'Check environment configuration in Adobe Analytics.'
             })
@@ -580,7 +580,7 @@ class AdobeAnalyticsSubscriptionTester:
     def save_results(self, output_file: str = "analytics_test_results.json") -> Optional[Dict[str, Any]]:
         """Save individual URL reports only - no summary or index files"""
         try:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            timestamp = datetime.now().strftime("%d-%m-%Y__%H_%M_%S")
             results_dir = Path("Adobe_Analytics_Results")
             results_dir.mkdir(exist_ok=True)
             
